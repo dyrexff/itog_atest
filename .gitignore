@@ -5,5 +5,4 @@ __pycache__/
 .Python
 env/
 venv/
-data/*.json
 .DS_Store
